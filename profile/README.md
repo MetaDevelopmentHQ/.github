@@ -268,10 +268,10 @@ Security-related issues should be reported privately.
 
 | Platform | Status |
 | --- | --- |
-| Discord | Available / Update Link |
-| YouTube | Available / Update Link |
-| TikTok | Available / Update Link |
-| Instagram | Available / Update Link |
+| Discord | Updating |
+| YouTube | Available |
+| TikTok | Available |
+| Instagram | Coming Soon |
 | Cfx.re | Coming Soon |
 | Store | Coming Soon |
 | Documentation | Coming Soon |
