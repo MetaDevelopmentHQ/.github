@@ -8,9 +8,9 @@ Building the foundation for modern, reliable and well-designed development solut
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![YouTube](https://img.shields.io/badge/YouTube-Showcases-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@yourusername)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/metadev)
+[![YouTube](https://img.shields.io/badge/YouTube-Showcases-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MetaDevelopmentHQ)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@metadevelopment)
 
 </div>
 
